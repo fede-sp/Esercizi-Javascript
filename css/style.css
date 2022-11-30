@@ -1,0 +1,12 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main button {
+    padding: 10px;
+    margin: 10px 0;
+
+}
